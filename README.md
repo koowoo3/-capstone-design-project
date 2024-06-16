@@ -1,5 +1,5 @@
 
-# -capstone-design-project
+# 스마트팩토리 캡스톤 디자인 프로젝트
 
 ## 아나콘다 가상 환경 설정
 
